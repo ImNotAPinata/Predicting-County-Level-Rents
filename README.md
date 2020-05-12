@@ -1,5 +1,5 @@
 # Predicting-County-Level-Rents
-My final test. Never surrender.
+One of the tops 100 out of 500 of the competition
 
 ## About the Data
 
