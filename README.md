@@ -1,5 +1,5 @@
 # Predicting-County-Level-Rents
-One of the tops 100 out of 500 of the competition
+One of the top 100's out of 500+ of the competition
 
 ## About the Data
 
